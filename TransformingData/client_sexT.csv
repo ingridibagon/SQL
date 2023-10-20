@@ -1,0 +1,44 @@
+SQL> SELECT * FROM SEX_T
+  2  ;
+1  ,Sandra                                            ,F
+2  ,Joao                                              ,F
+3  ,Marcia                                            ,F
+4  ,Maria                                             ,F
+5  ,Joana                                             ,F
+6  ,Mariana                                           ,F
+7  ,Cristina                                          ,F
+8  ,Luciana                                           ,F
+8  ,Beatriz                                           ,F
+9  ,Ana                                               ,F
+10 ,Marli                                             ,F
+11 ,Solange                                           ,F
+12 ,Cleide                                            ,F
+13 ,Neusa                                             ,F
+14 ,Idalina                                           ,F
+15 ,Vera                                              ,F
+16 ,Sueli                                             ,Outros
+17 ,Jessica                                           ,Outros
+18 ,Jacinta                                           ,F
+19 ,Fatima                                            ,F
+20 ,Adriana                                           ,F
+21 ,Marcelo                                           ,M
+22 ,Joao                                              ,M
+23 ,Antonio                                           ,M
+24 ,Jose                                              ,M
+24 ,Carlos                                            ,M
+25 ,Manoel                                            ,M
+26 ,Armindo                                           ,F
+27 ,Elisio                                            ,F
+28 ,Joaquim                                           ,M
+29 ,Jau                                               ,M
+30 ,Reginaldo                                         ,M
+31 ,Mario                                             ,M
+32 ,Fernando                                          ,M
+33 ,Rafael                                            ,M
+34 ,Pedro                                             ,M
+35 ,Guilherme                                         ,M
+36 ,Leonardo                                          ,M
+
+38 linhas selecionadas.
+
+SQL> spool off
